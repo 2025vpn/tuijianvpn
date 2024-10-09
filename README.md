@@ -1,6 +1,6 @@
 # 十月最新外网工具梯子推荐︱便宜好用高速稳定的SS/SSR/V2ray机场节点订阅
 
-**这三款科学机场采用SS/SSR/V2ray/Trojan/Hysteria等穿墙节点协议，兼容流行的Clash/Shadowrocket/Stash/V2ray/Shadowsocks等翻墙梯子的客户端。不论您是在学习还是从事外贸或者解锁观看流媒体，这款科学上网机场都能提供高度稳定的翻墙服务，满足办公和日常需求。**
+**这四款科学机场采用SS/SSR/V2ray/Trojan/Hysteria等穿墙节点协议，兼容流行的Clash/Shadowrocket/Stash/V2ray/Shadowsocks等翻墙梯子的客户端。不论您是在学习还是从事外贸或者解锁观看流媒体，这款科学上网机场都能提供高度稳定的翻墙服务，满足办公和日常需求。**
 
 
 ![image](https://github.com/user-attachments/assets/e0151ffb-e1a1-4fd7-b021-f6b1c88159e2)
