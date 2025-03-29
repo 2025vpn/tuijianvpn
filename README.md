@@ -1,6 +1,6 @@
 # 2025上外网魔法梯子vpn推荐︱便宜好用高速稳定的SS/SSR/V2ray机场节点订阅
 
-**这四款手机电脑都能用的机场梯子vpn采用SS/SSR/V2ray/Trojan/Hysteria等穿墙节点协议，兼容流行的Clash/Shadowrocket/Stash/V2ray/Shadowsocks等翻墙梯子的客户端。不论您是在学习还是从事外贸或者解锁观看流媒体，这款科学上网机场都能提供高度稳定的翻墙服务，满足办公和日常需求。**
+**这四款手机电脑都能用的机场梯子vpn采用SS/SSR/V2ray/Trojan/Hysteria等穿墙节点协议，兼容流行的Clash/Shadowrocket/Stash/V2ray/Shadowsocks等翻墙梯子的客户端。不论您是在学习还是从事外贸或者解锁观看流媒体，这款科学上网机场都能提供高度稳定的[翻墙服务](https://gitlab.com/cnvpn/2025-vpn-ssr)，满足办公和日常需求。**
 
 
 ![image](https://www.cnvintage.org/assets/files/2025-02-26/1740563912-317725-image.png)
